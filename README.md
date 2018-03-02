@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-![Home](https://github.com/ChenMu1/chatroom/blob/master/public/images/chat-capture.png)
+![Home](https://github.com/ChenMu1/chatroom/blob/master/public/images/chat-capture.PNG)
 
 ## Get chatroom by running
 
